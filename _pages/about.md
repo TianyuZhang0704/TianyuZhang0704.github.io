@@ -32,6 +32,8 @@ To explore my artworks and designs, please visit my <a href='https://tianyuzhang
 
 # Educations
 
+<span class='anchor' id='-educations'></span>
+
 <div class='paper-box'><div class='institution-image'><div><img src='images/urlogo.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 **University of Rochester**
@@ -95,6 +97,8 @@ Undergraduate Research Assistant
 
 # Publications 
 
+<span class='anchor' id='-publications'></span>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/who2blame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -122,6 +126,9 @@ Ludwig Sidenmark, **Tianyu Zhang**, Leen Al Lababidi, Jiannan Li, Tovi Grossman
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # Honors and Awards
+
+<span class='anchor' id='-honors-and-awards'></span>
+
 - *2020 - 2024* University of Toronto Dean’s List Scholar
 - *2023* Department of Computer Science Research Award
 - *2023* Ubisoft Toronto Next 2023 Game Design Finalist
