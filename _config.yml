@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "PhD Student"
-description              : "PhD Student"
+title                    : "Tianyu Zhang"
+description              : "Phd Student"
 repository               : "TianyuZhang0704/TianyuZhang0704.github.io"
 google_scholar_stats_use_cdn : false
 
