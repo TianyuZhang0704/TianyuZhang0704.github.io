@@ -57,7 +57,7 @@ Advisor: Yukang Yan
 
 B.Sc. Honours in Computer Science
 
-Focus on Artificial Intelligence and Game Design, Minor in Mathematics
+Focus in Artificial Intelligence and Game Design, Minor in Mathematics
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
@@ -102,7 +102,7 @@ Undergraduate Research Assistant
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/who2blame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Who to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration](https://dl.acm.org/doi/abs/10.1145/3654777.3676339)
+[Who to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration](https://arxiv.org/abs/2501.11748)
 
 Shutong Zhang, **Tianyu Zhang**, Jinghui Cheng, Shurui Zhou
 
