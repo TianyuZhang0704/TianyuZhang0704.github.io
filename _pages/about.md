@@ -102,7 +102,7 @@ Undergraduate Research Assistant
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/who2blame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Who to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration](https://arxiv.org/abs/2501.11748)
+[Who is to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration](https://arxiv.org/abs/2501.11748)
 
 Shutong Zhang, **Tianyu Zhang**, Jinghui Cheng, Shurui Zhou
 
