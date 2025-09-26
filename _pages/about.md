@@ -106,6 +106,9 @@ Undergraduate Research Assistant
 
 Chao-Jung Lai, Mauricio Sousa, **Tianyu Zhang**, Ludwig Sidenmark, Tovi Grossman
 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/who2blame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
