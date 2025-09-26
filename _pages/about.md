@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a first-year PhD student at <a href='https://www.rochester.edu/'><strong>University of Rochester</strong></a>, advised by <a href='https://rochester-bear-lab.github.io/yukang'><strong>Professor Yukang Yan</strong></a>. My research focuses on Human-Computer Interaction (HCI), particularly in the areas of interactions, perceptions, and collaborations in AR/VR.
+I am a second-year PhD student at <a href='https://www.rochester.edu/'><strong>University of Rochester</strong></a>, advised by <a href='https://rochester-bear-lab.github.io/yukang'><strong>Professor Yukang Yan</strong></a>. My research focuses on Human-Computer Interaction (HCI), particularly in the areas of interactions, perceptions, and collaborations in AR/VR.
 
 I obtained my bachelor's degree in Computer Science from University of Toronto. During my undergraduate studies, I was a research assistant at <a href='https://www.dgp.toronto.edu/'><strong>Dynamic Graphics Project Lab</strong></a> under the supervision of <a href='https://www.tovigrossman.com/'><strong>Professor Tovi Grossman</strong></a> and <a href='https://ludwigsidenmark.com/'><strong>Dr. Ludwig Sidenmark</strong></a> and at <a href='https://www.eecg.utoronto.ca/~shuruiz/forcolab/'><strong>Forcolab</strong></a> with <a href='https://www.eecg.utoronto.ca/~shuruiz/'><strong>Professor Shurui Zhou</strong></a>. I also gained industry experience as an assistant engineer at **Huawei Human Machine Interaction Lab**.
 
@@ -98,6 +98,13 @@ Undergraduate Research Assistant
 # Publications 
 
 <span class='anchor' id='-publications'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/adaptique.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Adaptique: Multi-objective and Context-aware Online Adaptation of Selection Techniques in Virtual Reality](https://arxiv.org/abs/2508.08505)
+
+Chao-Jung Lai, Mauricio Sousa, **Tianyu Zhang**, Ludwig Sidenmark, Tovi Grossman
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/who2blame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
