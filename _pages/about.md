@@ -155,8 +155,6 @@ Ludwig Sidenmark, **Tianyu Zhang**, Leen Al Lababidi, Jiannan Li, Tovi Grossman
 </div>
 </div>
 
-<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
-
 # Honors and Awards
 
 <span class='anchor' id='-honors-and-awards'></span>
@@ -168,6 +166,40 @@ Ludwig Sidenmark, **Tianyu Zhang**, Leen Al Lababidi, Jiannan Li, Tovi Grossman
 - *2021* The George W. Edmonds Scholarship
 - *2020* The R Malcolm Hill Scholarship
 - *2019* University of Toronto Scholar
+
+# Creative Work
+
+<span class='anchor' id='-creative-work'></span>
+
+<div class='creative-gallery'>
+  <a class='creative-item' href='https://thepurplenebula.itch.io/reminiscence' target='_blank' rel='noopener'>
+    <div class='creative-thumb creative-thumb-game-1'></div>
+    <div class='creative-meta'>
+      <div class='creative-type'>Game</div>
+      <h3>Reminiscence</h3>
+      <p>Reminiscence is a single-player narrative puzzle game where you play as Vini, who finds a box of VHS tapes in his old room.</p>
+    </div>
+  </a>
+
+  <a class='creative-item' href='https://github.com/TianyuZhang0704/3DModelingPortfolio' target='_blank' rel='noopener'>
+    <div class='creative-thumb creative-thumb-3d-1'></div>
+    <div class='creative-meta'>
+      <div class='creative-type'>3D Modeling</div>
+      <h3>3D Modeling Portfolio</h3>
+      <p>3D Concept arts using Blender and 3D Coat.</p>
+    </div>
+  </a>
+
+  <a class='creative-item' href='https://github.com/TianyuZhang0704/Ubisoft-Toronto-Next-2023-Game-Design/tree/main' target='_blank' rel='noopener'>
+    <div class='creative-thumb creative-thumb-art-1'></div>
+    <div class='creative-meta'>
+      <div class='creative-type'>Game Design</div>
+      <h3>Ubisoft Toronto Next 2023 Game Design</h3>
+      <p>Ubisoft Toronto Next 2023 Game Design Finalist.</p>
+    </div>
+  </a>
+
+<!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 <!-- # Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
