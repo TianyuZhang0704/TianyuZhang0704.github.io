@@ -21,7 +21,8 @@ I am a third-year PhD candidate at <a href='https://www.rochester.edu/'><strong>
 
 I obtained my bachelor's degree in Computer Science from University of Toronto. During my undergraduate studies, I was a research assistant at <a href='https://www.dgp.toronto.edu/'><strong>Dynamic Graphics Project Lab</strong></a> under the supervision of <a href='https://www.tovigrossman.com/'><strong>Professor Tovi Grossman</strong></a> and <a href='https://ludwigsidenmark.com/'><strong>Dr. Ludwig Sidenmark</strong></a> and at <a href='https://www.eecg.utoronto.ca/~shuruiz/forcolab/'><strong>Forcolab</strong></a> with <a href='https://www.eecg.utoronto.ca/~shuruiz/'><strong>Professor Shurui Zhou</strong></a>. I also gained industry experience as an assistant engineer at **Huawei Human Machine Interaction Lab**.
 
-<a href='https://drive.google.com/file/d/1VPnnW7329-FEPDK-01eGU1ehQ3xoS5FI/view?usp=sharing'>CV</a> \| <a href='https://tianyuzhangartportfolio.wordpress.com/'>Art Portfolio</a>
+<a href='https://drive.google.com/file/d/1VPnnW7329-FEPDK-01eGU1ehQ3xoS5FI/view?usp=sharing'>CV</a> 
+<!-- \| <a href='https://tianyuzhangartportfolio.wordpress.com/'>Art Portfolio</a> -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -124,7 +125,7 @@ Yang Lu, **Tianyu Zhang**, Jiamu Tang, Yanna Lin, Jiankun Yang, Longyu Zhang, Sh
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/adaptique.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Adaptique: Multi-objective and Context-aware Online Adaptation of Selection Techniques in Virtual Reality](https://arxiv.org/abs/2508.08505)
+[Adaptique: Multi-objective and Context-aware Online Adaptation of Selection Techniques in Virtual Reality](https://dl.acm.org/doi/full/10.1145/3746059.3747790)
 
 Chao-Jung Lai, Mauricio Sousa, **Tianyu Zhang**, Ludwig Sidenmark, Tovi Grossman
 
@@ -134,7 +135,7 @@ Chao-Jung Lai, Mauricio Sousa, **Tianyu Zhang**, Ludwig Sidenmark, Tovi Grossman
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2025</div><img src='images/who2blame.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Who is to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration](https://arxiv.org/abs/2501.11748)
+[Who is to Blame: A Comprehensive Review of Challenges and Opportunities in Designer-Developer Collaboration](https://dl.acm.org/doi/abs/10.1145/3711105)
 
 Shutong Zhang, **Tianyu Zhang**, Jinghui Cheng, Shurui Zhou
 
@@ -190,7 +191,7 @@ Ludwig Sidenmark, **Tianyu Zhang**, Leen Al Lababidi, Jiannan Li, Tovi Grossman
     </div>
   </a>
 
-  <a class='creative-item' href='https://github.com/TianyuZhang0704/Ubisoft-Toronto-Next-2023-Game-Design/tree/main' target='_blank' rel='noopener'>
+  <a class='creative-item' href='https://github.com/TianyuZhang0704/Ubisoft-Toronto-Next-2023-Game-Design' target='_blank' rel='noopener'>
     <div class='creative-thumb creative-thumb-art-1'></div>
     <div class='creative-meta'>
       <div class='creative-type'>Game Design</div>
@@ -198,6 +199,16 @@ Ludwig Sidenmark, **Tianyu Zhang**, Leen Al Lababidi, Jiannan Li, Tovi Grossman
       <p>Ubisoft Toronto Next 2023 Game Design Finalist.</p>
     </div>
   </a>
+
+  <a class='creative-item' href='https://github.com/TianyuZhang0704/ArtPorfolio' target='_blank' rel='noopener'>
+    <div class='creative-thumb creative-thumb-art-2'></div>
+    <div class='creative-meta'>
+      <div class='creative-type'>Art</div>
+      <h3>Art Portfolio</h3>
+      <p>Digital arts, illustrations, oil paintings.</p>
+    </div>
+  </a>
+  
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
