@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a second-year PhD student at <a href='https://www.rochester.edu/'><strong>University of Rochester</strong></a>, advised by <a href='https://rochester-bear-lab.github.io/yukang'><strong>Professor Yukang Yan</strong></a>. My research focuses on Human-Computer Interaction (HCI), particularly in the areas of interactions, perceptions, and collaborations in AR/VR.
+I am a third-year PhD candidate at <a href='https://www.rochester.edu/'><strong>University of Rochester</strong></a>, advised by <a href='https://rochester-bear-lab.github.io/yukang'><strong>Professor Yukang Yan</strong></a>. My research focuses on Human-Computer Interaction (HCI), particularly in the areas of interactions, perceptions, and collaborations in AR/VR.
 
 I obtained my bachelor's degree in Computer Science from University of Toronto. During my undergraduate studies, I was a research assistant at <a href='https://www.dgp.toronto.edu/'><strong>Dynamic Graphics Project Lab</strong></a> under the supervision of <a href='https://www.tovigrossman.com/'><strong>Professor Tovi Grossman</strong></a> and <a href='https://ludwigsidenmark.com/'><strong>Dr. Ludwig Sidenmark</strong></a> and at <a href='https://www.eecg.utoronto.ca/~shuruiz/forcolab/'><strong>Forcolab</strong></a> with <a href='https://www.eecg.utoronto.ca/~shuruiz/'><strong>Professor Shurui Zhou</strong></a>. I also gained industry experience as an assistant engineer at **Huawei Human Machine Interaction Lab**.
 
-<a href='https://drive.google.com/file/d/12H99DHBi_OjrXE6KcgcQmlOvGOa_FrWj/view?usp=sharing'>CV</a> \| <a href='https://tianyuzhangartportfolio.wordpress.com/'>Art Portfolio</a>
+<a href='https://drive.google.com/file/d/1VPnnW7329-FEPDK-01eGU1ehQ3xoS5FI/view?usp=sharing'>CV</a> \| <a href='https://tianyuzhangartportfolio.wordpress.com/'>Art Portfolio</a>
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -98,6 +98,28 @@ Undergraduate Research Assistant
 # Publications 
 
 <span class='anchor' id='-publications'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/FocusAdapt.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FocusAdapt: Context-aware Adaptive Focus Assistance in Diminished Reality](https://arxiv.org/abs/2608.30108)
+
+**Tianyu Zhang**, Shutong Wu, Jiankun Yang, Zhen Bai, Yukang Yan
+
+</div>
+</div>
+
+<span class='anchor' id='-publications'></span>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/capability.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Capability at a Glance: Design Guidelines for Intuitive Avatars Communicating Augmented Actions in Virtual Reality](https://dl.acm.org/doi/full/10.1145/3772318.3790609)
+
+Yang Lu, **Tianyu Zhang**, Jiamu Tang, Yanna Lin, Jiankun Yang, Longyu Zhang, Shijian Luo, Yukang Yan
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2025</div><img src='images/adaptique.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
