@@ -53,9 +53,17 @@
     .paper-box-image{
         justify-content: center;
         display: flex;
-        // width: 100%;
+        flex: 0 0 220px;
         order: 2;
+
+        > div {
+            position: relative;
+            width: 100%;
+        }
+
         img {
+            display: block;
+            width: 100%;
             max-width: 200px;
             box-shadow: 3px 3px 6px #888;
             object-fit: cover;
@@ -63,6 +71,8 @@
     }
     
     .paper-box-text{
+        flex: 1 1 0;
+        min-width: 0;
         max-width: 100%;
         order: 1;
     }
@@ -78,7 +88,7 @@
         .paper-box-text{
             justify-content: left;
             padding-left: 2em;
-            max-width: 80%;
+            max-width: none;
             order: 2;
         }
 
@@ -109,11 +119,12 @@ h1:before, .anchor:before {
 }
 
 .badge {
+    position: absolute;
+    top: .5em;
+    left: -.5em;
+    z-index: 1;
     padding-left: 1rem;
     padding-right: 1rem;
-    position: absolute;
-    margin-top: .5em;
-    margin-left: -.5em;
     color: white;
     background-color: #7aaec6;
     font-size: .8em;
