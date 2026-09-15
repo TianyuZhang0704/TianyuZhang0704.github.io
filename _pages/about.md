@@ -57,7 +57,7 @@ Advisor: Yukang Yan
 
 B.Sc. Honours in Computer Science
 
-Focus in Artificial Intelligence and Game Design, Minor in Mathematics
+Focus in Artificial Intelligence and Game Design, Minor in Mathematics and Philosophy
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
