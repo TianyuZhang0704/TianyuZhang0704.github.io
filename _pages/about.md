@@ -99,7 +99,7 @@ Undergraduate Research Assistant
 
 <span class='anchor' id='-publications'></span>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2026</div><img src='images/FocusAdapt.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">UIST 2026 Poster</div><img src='images/FocusAdapt.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [FocusAdapt: Context-aware Adaptive Focus Assistance in Diminished Reality](https://arxiv.org/abs/2608.30108)
